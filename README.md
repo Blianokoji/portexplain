@@ -149,4 +149,4 @@ If missing, `portexplain` automatically seeds itself from the bundled defaults.
 ## 📜 License
 
 Released under the [MIT License](LICENSE).  
-Created and maintained with ❤️ by [Blessen Eby (Blianokoji)](https://github.com/Blianokoji).
+Created and maintained by [Blessen Eby (Blianokoji)](https://github.com/Blianokoji).
